@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Kev-HL/Kev-HL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Kevin 👋
+
+I'm an industrial engineer and self-taught machine learning enthusiast.  
+Currently building a portfolio of ML projects, including Kaggle competitions and personal experiments.
+
+🧠 Interested in: Machine Learning · Deep Learning · Data Science · Python  
+📊 Projects:  [See pinned repos below](#)  
+📍 Based in:   [Elche, Spain]  
+🔗 Connect:   [LinkedIn](https://linkedin.com/in/kevinhl) · [Kaggle](https://www.kaggle.com/kevinhlapaz)
+
+---
+
+💡 Currently working on: House Price Prediction Kaggle Comp  
+
