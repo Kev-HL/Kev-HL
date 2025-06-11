@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Kevin 👋
 
-I'm an industrial engineer and self-taught machine learning enthusiast.  
+I'm an industrial engineer and machine learning enthusiast.  
 Currently building a portfolio of ML projects, including Kaggle competitions and personal experiments.
 
 🧠 Interested in: Machine Learning · Deep Learning · Data Science · Python  
