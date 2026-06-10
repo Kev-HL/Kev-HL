@@ -24,5 +24,5 @@ Currently building a portfolio of ML projects, including Kaggle competitions and
 
 ---
 
-💡 Currently working on: Finetuning Gemma 2 for Spanish QA (SQuAD-es & MLQA)  
+💡 Currently working on: Acoustic Hardness Classification With TinyML
 
